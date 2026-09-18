@@ -3,7 +3,7 @@
 Level 3 Games Development student at Belfast Metropolitan College.
 Unreal Engine, character design, game audio.
 
-**Portfolio:** https://sarahbleonard.github.io/
+**Portfolio:** https://sarahbleonard.github.io
 
 ## What is in here
 
